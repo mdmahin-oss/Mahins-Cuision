@@ -1,2 +1,17 @@
-# Mahins-Cuision
-This project is a responsive restaurant website built using frontend web HTML, CSS & JavaScript. The website provides an elegant and user-friendly interface to showcase restaurant services, about, menus, Contacts, and booking features.
+# 🍴 Restaurant Website  
+A modern, responsive restaurant website designed to showcase a restaurant’s brand, menu, and services. Built with **HTML, CSS, and JavaScript** to provide a smooth and engaging user experience.  
+
+---
+
+##  Features  
+- Home Page – Highlights restaurant specialties and ambiance  
+- Menu Page – Organized menu with food categories and pricing  
+- About Page– Story and values of the restaurant  
+- Contact Page – Location, hours, and a contact form  
+- Book a Table– Reservation form for easy table booking  
+
+---
+
+##  Tech Stack  
+- Frontend: HTML, CSS, JavaScript  
+- Responsive Design: Mobile, tablet, and desktop friendly  
